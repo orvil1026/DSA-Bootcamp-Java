@@ -23,7 +23,7 @@
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) ---> [Solution](https://www.youtube.com/watch?v=K0NDHD-xaGo)
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
-21. [Two Sum](https://leetcode.com/problems/two-sum/)
+21. ~[Two Sum](https://leetcode.com/problems/two-sum/)~
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
